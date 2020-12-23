@@ -16,7 +16,7 @@ HTTP/2 标准是从 Google 的 SPDY 上进行的改进，比起 HTTP 1.1 提升�
 
 如果你想自己看一下 HTTP 1.1 和 HTTP 2.0 的速度差异，可以试一下：[https://www.httpvshttps.com/](https://www.httpvshttps.com/)。我的网络测试下来 HTTP/2 比 HTTP 1.1 快了 66%。
 
-![HTTP 1.1 与 HTTP 2.0 速度对比](./HTTP2-speed-compare.png)
+![HTTP 1.1 与 HTTP 2.0 速度对比](https://kalasearch.cn/static/147fc37e212cbc9ec6d35a7a8560fa05/29007/HTTP2-speed-compare.png)
 
 
 在 Nginx 中开启 HTTP 2.0 非常简单，只需要增加一个 http2 标志即可
