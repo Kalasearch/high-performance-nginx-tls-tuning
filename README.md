@@ -1,6 +1,6 @@
 # 高性能 Nginx HTTPS 调优
 
-## 原文全文发布于卡拉搜索博客 [https://kalasearch.cn/blog/high-performance-nginx-tls-tuning/](高性能 HTTPS 调优)
+## 原文全文发布于卡拉搜索博客：[高性能 Nginx HTTPS 调优](https://kalasearch.cn/blog/high-performance-nginx-tls-tuning/)
 
 本文全部设置位于 `nginx.conf` 文件中，每个调整选项的说明请[阅读原文](https://kalasearch.cn/blog/high-performance-nginx-tls-tuning/)
 
